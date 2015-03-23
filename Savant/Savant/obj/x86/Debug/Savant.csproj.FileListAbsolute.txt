@@ -1,0 +1,56 @@
+C:\Users\Nerfling\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.exe
+C:\Users\Nerfling\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.pdb
+C:\Users\Nerfling\Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.csprojResolveAssemblyReference.cache
+C:\Users\Nerfling\Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nerfling\Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.exe
+C:\Users\Nerfling\Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.pdb
+C:\Users\Nerfling\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\bug.xnb
+C:\Users\Nerfling\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\Point.xnb
+C:\Users\Nerfling\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\Circle.xnb
+C:\Users\Nerfling\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\MyFont.xnb
+C:\Users\Nerfling\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.exe.manifest
+C:\Users\Nerfling\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.application
+C:\Users\Nerfling\Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.exe.manifest
+C:\Users\Nerfling\Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.application
+C:\Users\Nerfling\Desktop\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\bug.xnb
+C:\Users\Nerfling\Desktop\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\Point.xnb
+C:\Users\Nerfling\Desktop\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\Circle.xnb
+C:\Users\Nerfling\Desktop\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\MyFont.xnb
+C:\Users\Nerfling\Desktop\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.exe.manifest
+C:\Users\Nerfling\Desktop\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.application
+C:\Users\Nerfling\Desktop\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.exe
+C:\Users\Nerfling\Desktop\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.pdb
+C:\Users\Nerfling\Desktop\Old Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.csprojResolveAssemblyReference.cache
+C:\Users\Nerfling\Desktop\Old Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nerfling\Desktop\Old Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.exe.manifest
+C:\Users\Nerfling\Desktop\Old Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.application
+C:\Users\Nerfling\Desktop\Old Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.exe
+C:\Users\Nerfling\Desktop\Old Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.pdb
+D:\Bijhouden\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\bug.xnb
+D:\Bijhouden\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\Point.xnb
+D:\Bijhouden\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\Circle.xnb
+D:\Bijhouden\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\MyFont.xnb
+D:\Bijhouden\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.exe.manifest
+D:\Bijhouden\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.application
+D:\Bijhouden\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.exe
+D:\Bijhouden\Old Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.pdb
+D:\Bijhouden\Old Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.csprojResolveAssemblyReference.cache
+D:\Bijhouden\Old Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Bijhouden\Old Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.exe.manifest
+D:\Bijhouden\Old Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.application
+D:\Bijhouden\Old Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.exe
+D:\Bijhouden\Old Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.pdb
+C:\Users\Bart\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\bug.xnb
+C:\Users\Bart\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\Point.xnb
+C:\Users\Bart\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\Circle.xnb
+C:\Users\Bart\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Content\MyFont.xnb
+C:\Users\Bart\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.exe.manifest
+C:\Users\Bart\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.application
+C:\Users\Bart\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.exe
+C:\Users\Bart\Desktop\Savant 0.2\Savant\Savant\bin\x86\Debug\Savant.pdb
+C:\Users\Bart\Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.csprojResolveAssemblyReference.cache
+C:\Users\Bart\Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bart\Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.exe.manifest
+C:\Users\Bart\Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.application
+C:\Users\Bart\Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.exe
+C:\Users\Bart\Desktop\Savant 0.2\Savant\Savant\obj\x86\Debug\Savant.pdb

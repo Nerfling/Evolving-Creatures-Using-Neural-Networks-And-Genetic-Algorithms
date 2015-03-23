@@ -1,0 +1,4 @@
+Content\bug.xnb
+Content\Point.xnb
+Content\Circle.xnb
+Content\MyFont.xnb

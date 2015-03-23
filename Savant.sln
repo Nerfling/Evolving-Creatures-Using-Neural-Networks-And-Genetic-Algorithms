@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Savant", "Savant\Savant\Savant.csproj", "{BB8C1686-8233-40FA-A959-FF64C2B0EBF2}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SavantContent", "Savant\SavantContent\SavantContent.contentproj", "{4DA5CEC5-08C9-4D97-B145-FF2A5F727B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8C1686-8233-40FA-A959-FF64C2B0EBF2}.Debug|x86.ActiveCfg = Debug|x86
+		{BB8C1686-8233-40FA-A959-FF64C2B0EBF2}.Debug|x86.Build.0 = Debug|x86
+		{BB8C1686-8233-40FA-A959-FF64C2B0EBF2}.Release|x86.ActiveCfg = Release|x86
+		{BB8C1686-8233-40FA-A959-FF64C2B0EBF2}.Release|x86.Build.0 = Release|x86
+		{4DA5CEC5-08C9-4D97-B145-FF2A5F727B14}.Debug|x86.ActiveCfg = Debug|x86
+		{4DA5CEC5-08C9-4D97-B145-FF2A5F727B14}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

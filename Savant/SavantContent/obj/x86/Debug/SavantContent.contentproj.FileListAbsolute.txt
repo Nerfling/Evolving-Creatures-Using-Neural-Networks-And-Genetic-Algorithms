@@ -1,0 +1,4 @@
+C:\Users\Nerfling\Desktop\Savant 0.2\Savant\SavantContent\obj\x86\Debug\SavantContent.contentprojResolveAssemblyReference.cache
+C:\Users\Nerfling\Desktop\Old Desktop\Savant 0.2\Savant\SavantContent\obj\x86\Debug\SavantContent.contentprojResolveAssemblyReference.cache
+D:\Bijhouden\Old Desktop\Savant 0.2\Savant\SavantContent\obj\x86\Debug\SavantContent.contentprojResolveAssemblyReference.cache
+C:\Users\Bart\Desktop\Savant 0.2\Savant\SavantContent\obj\x86\Debug\SavantContent.contentprojResolveAssemblyReference.cache
